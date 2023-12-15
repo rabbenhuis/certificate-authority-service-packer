@@ -34,7 +34,9 @@
 			},
 			"extensions": [
 				"GitHub.vscode-pull-request-github",
-				"bierner.markdown-preview-github-styles"
+				"bierner.markdown-preview-github-styles",
+				"HashiCorp.HCL",
+				"4ops.packer"
 			]
 		}
 	}
